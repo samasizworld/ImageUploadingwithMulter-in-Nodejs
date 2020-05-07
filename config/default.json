@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://boult:1234@multer-lumeq.mongodb.net/test?retryWrites=true&w=majority"
+}
